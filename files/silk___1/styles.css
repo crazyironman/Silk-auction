@@ -16,7 +16,7 @@
   position:absolute;
   z-index:0;
 }
-#u701_img {
+#u703_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -24,7 +24,7 @@
   width:375px;
   height:58px;
 }
-#u701 {
+#u703 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -32,7 +32,7 @@
   width:375px;
   height:58px;
 }
-#u701_text {
+#u703_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -41,7 +41,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u702_img {
+#u704_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -49,7 +49,7 @@
   width:84px;
   height:17px;
 }
-#u702 {
+#u704 {
   border-width:0px;
   position:absolute;
   left:160px;
@@ -62,7 +62,7 @@
   font-size:14px;
   color:#FFFFFF;
 }
-#u702_text {
+#u704_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -70,7 +70,7 @@
   width:84px;
   word-wrap:break-word;
 }
-#u703 {
+#u705 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -80,7 +80,7 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
-#u704_img {
+#u706_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -88,7 +88,7 @@
   width:300px;
   height:544px;
 }
-#u704 {
+#u706 {
   border-width:0px;
   position:absolute;
   left:15px;
@@ -96,7 +96,7 @@
   width:300px;
   height:544px;
 }
-#u704_text {
+#u706_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -104,7 +104,7 @@
   width:300px;
   word-wrap:break-word;
 }
-#u705_img {
+#u707_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -112,7 +112,7 @@
   width:170px;
   height:170px;
 }
-#u705 {
+#u707 {
   border-width:0px;
   position:absolute;
   left:190px;
@@ -120,7 +120,7 @@
   width:170px;
   height:170px;
 }
-#u705_text {
+#u707_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -129,7 +129,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u706_img {
+#u708_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -137,7 +137,7 @@
   width:145px;
   height:137px;
 }
-#u706 {
+#u708 {
   border-width:0px;
   position:absolute;
   left:15px;
@@ -146,7 +146,7 @@
   height:137px;
   font-size:10px;
 }
-#u706_text {
+#u708_text {
   border-width:0px;
   position:absolute;
   left:2px;
